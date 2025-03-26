@@ -35,7 +35,7 @@ Usage:
 
 3. You will then provide a location to where your error log CSV file will go, this will contain the 'error', 'title', and 'url' columns.
 
-4. You will provide the number of instances you want to run of the program, the more you run the heavier it will be on your CPU but the more files it will download in parallel and faster they will all download (personally I use '96' on a Ryzen 9 5950X without hiting 100% CPU Usage)
+4. You will provide the number of instances you want to run of the program, the more you run the heavier it will be on your CPU but the more files it will download in parallel and faster they will all download (personally I use '96' on a Ryzen 9 5950X without hiting 100% CPU Usage).
 
 5. When it is all complete you will see "Done. Press Enter to finish...", keep it running until then, that means it finished downloading everything.
 
