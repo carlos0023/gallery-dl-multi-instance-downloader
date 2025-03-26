@@ -11,7 +11,7 @@ For example 64 instances can download up to 64 times faster and will all downloa
 
 It will also create a error log csv file to store all the ones that it failed to download. It is recommended to check these for domains that are valid but gallery-dl couldn't download and do these manually, excluding dead domains.
 
-You can estimate to download around 30k images in 1~2 hours with 64 instances at ~15 MB/s, although you will need a decent CPU to keep up with the load (this is only an assumption and not based off real measurements).
+You can estimate to download around 40k images in 1~2 hours with 64 instances at ~15 MB/s, although you will need a decent CPU to keep up with the load (this is only an assumption and not based off real measurements).
  
  ‍
 
