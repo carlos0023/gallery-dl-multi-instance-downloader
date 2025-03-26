@@ -31,7 +31,7 @@ Usage:
 
 1. When you run the python file you will be asked to provide the main folder where all your files will be grouped into folders.
 
-2. You will provide your CSV file with the columns "title" and "url" which provide the containing folder's name your files will be placed in.
+2. You will provide your CSV file with the columns 'title' and 'url' which provide the containing folder's name your files will be placed in.
 
 3. You will then provide a location to where your error log CSV file will go, this will contain the 'error', 'title', and 'url' columns.
 
