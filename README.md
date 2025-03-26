@@ -38,3 +38,5 @@ Usage:
 4. You will provide the number of instances you want to run of the program, the more you run the heavier it will be on your CPU but the more files it will download in parallel and faster they will all download.
 
 5. When it is all complete you will see "Done. Press Enter to finish...", keep it running until then, that means it finished downloading everything.
+
+Note: Once it starts running the instances you should avoid stopping it but if you must close the command line window to stop it running more commands.
