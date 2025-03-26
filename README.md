@@ -22,7 +22,7 @@ Prep:
 
 An example use case for this is that you would scrape multiple forum threads for all the image and video URLs and save them to a CSV file with the column names of 'title' and 'url'. You will provide the thread title and a file URL in a pair which will be used to store the files in a folder under that title.
 
-If you are inexperienced in scraping or aren't able to good at programming then I recommend you to use a program named [Octoparse](https://www.octoparse.com). Learn how to scrape data and provide an xpath for the URL contents you want to capture in the HTML. You may need their professional premium trial which does provide you with 20 Cloud PC instances to scrape on to gather data fast, and also allows you to export a high amount of lines/data. This is what I use.
+If you are inexperienced in scraping or aren't good at programming then I recommend you to use a program named [Octoparse](https://www.octoparse.com). Learn how to scrape data and provide an xpath for the URL contents you want to capture in the HTML. You may need their professional premium trial which does provide you with 20 Cloud PC instances to scrape on to gather data fast, and also allows you to export a high amount of lines/data. This is what I use.
  
  ‍
 
