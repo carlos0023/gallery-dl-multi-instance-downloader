@@ -31,9 +31,9 @@ Usage:
 
 1. When you run the python file you will be asked to provide the main folder where all your files will be grouped into folders.
 
-2. You will provide your CSV file with the columns 'title' and 'url' which provide the containing folder's name your files will be placed in.
+2. You will provide your CSV file with the columns "title" and "url" which provide the containing folder's name your files will be placed in.
 
-3. You will then provide a location to where your error log CSV file will go, this will contain the 'error', 'title', and 'url' columns.
+3. You will then provide a location to where your error log CSV file will go, this will contain the "error", "title", and "url" columns.
 
 4. You will provide the number of instances you want to run of the program, the more you run the heavier it will be on your CPU but the more files it will download in parallel and faster they will all download (personally I use '96' on a Ryzen 9 5950X without hiting 100% CPU Usage).
 
