@@ -7,7 +7,7 @@ Description:
 
 Allows you to run multiple instances of gallery-dl to allow for multi-threaded downloading, increasing download speeds drastically
 
-For example 64 instances can download up to 64 times faster and will all download one URL each from a provided CSV file that contains folder name and url.
+For example 16 instances can download up to 16 times faster and will all download one URL each from a provided CSV file that contains folder name and url.
 
 It will also create a error log csv file to store all the ones that it failed to download. It is recommended to check these for domains that are valid but gallery-dl couldn't download and do these manually, excluding dead domains.
 
